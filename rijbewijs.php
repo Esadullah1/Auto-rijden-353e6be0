@@ -8,9 +8,9 @@
      	
 if ($line1 < 16.50) {
         	echo "Helaas, je mag nog niet beginnen met rijlessen";
-}
+} 
 
-else{
+else {
         	echo "Je mag beginnen met rijlessen";
 }
 
